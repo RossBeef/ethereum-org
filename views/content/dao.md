@@ -14,7 +14,7 @@ In this section we are going to build a decentralized and democratic organizatio
 The way this particular democracy works is that it has an **Owner** which works like an administrator, CEO or a President. The *Owner* can add (or remove) voting members to the organization. Any member can make a proposal, which is in the form of an ethereum transaction to either send ether or execute some contract, and other members can vote in support or against the proposal. Once a predetermined amount of time and a certain number of members has voted, the proposal can be executed: the contract counts the votes and if there are enough votes it will execute the given transaction.
 
 
-### The Blockchain Congress
+### The Blockchain Congres
 
 #### The code
 
